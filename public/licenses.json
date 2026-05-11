@@ -1,0 +1,10 @@
+// licenses.json - Bu dosya Vercel'deki site üzerinden yönetilir
+// Admin paneli bu dosyayı günceller
+// Uygulama açılışında bu endpoint'i kontrol eder
+[
+  {
+    "email": "demo@restoran.com",
+    "expireDate": "2026-12-31",
+    "active": true
+  }
+]
