@@ -73,7 +73,7 @@ function Home() {
               <h3>Windows Ana Kasa</h3>
               <p>Restoranın ana bilgisayarına kurulacak sunucu ve kasiyer uygulaması. ZIP dosyasını indirin, açın ve RestoPOS.exe'yi çalıştırın.</p>
               <a
-                href="https://drive.google.com/file/d/1u35IDuy2MFisfXiV-Dsy6Tx1Iz_r9mP2/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1eRQ0IMYKf_D-LhMbGVCIpjWNAOWf3NZj/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-download"
