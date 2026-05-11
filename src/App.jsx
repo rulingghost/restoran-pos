@@ -49,7 +49,7 @@ function Home() {
               <Monitor size={48} color="#0078D4"/>
               <h3>Windows Ana Kasa</h3>
               <p>Restoranın ana bilgisayarına kurulacak sunucu ve kasiyer uygulaması.</p>
-              <a href="/RestoPOS Setup 1.0.0.exe" download className="btn-download" style={{ display: 'block', textDecoration: 'none' }}>Setup.exe İndir (v1.0)</a>
+              <a href="/RestoPOS_Windows.zip" download className="btn-download" style={{ display: 'block', textDecoration: 'none' }}>Windows Uygulamasını İndir (.zip)</a>
             </div>
             <div className="download-card">
               <Smartphone size={48} color="#3DDC84"/>
